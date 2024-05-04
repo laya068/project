@@ -1,0 +1,12 @@
+ 
+                                REAL-TIME PROJECT
+PROJECT NAME: ONLINE EDUCATION PLATFORM
+S.No	       Name	     Roll.No	Signature
+1.	           Tumma. Jyothi Sri               22R21A12J8
+2.	           Adusumalli.Maanasa           22R21A12D0
+3.	           Aemula. Jaya                       22R21A12D1
+4.	          Made. Sruthi Laya                22R21A12G8
+5.	          B. Sneha Reddy                    22R21A12E4
+   Internal Guide:  Mr.K.Shareef
+ ABSTRACT:
+ In Online education platform, The issues faced are lack is many students struggle to stay focused and motivated in remote learning environments, leading to decreased participation, completion rates, and overall learning outcomes. Additionally, the lack of personalized attention and interaction with instructors can hinder students' ability to grasp complex concepts and ask questions, further exacerbating the problem. At Present, some of the existing solutions the LMS,Video conferencing tools, Open Educational Resources. To address this challenge, idea of ‘Edusphere’ is proposed. At first we create a user friendly interface which is necessary for login and authentication. After login, dashboard shows the course list which we currently accessing. For a friendly course interaction adaptive learning algorithms are used. Firstly, user takes an initial assessment of their respective course. Based on the performance results are analysed. User can revise concepts using cheat-sheets, formulae list, interactive quizzes, Through the results, the system presents questions on user’s familiar topics and feedback is provided. However existing solutions are working to provide an interactive learning experience to its users. To achieve this, the technologies used are Java(backend), node.js (user interface), javascript for website functionalities.
